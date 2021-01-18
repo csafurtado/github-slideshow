@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+When she like BRUH i like ya cut G BONK LMAO
 Use the left arrow to go back!
